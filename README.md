@@ -3,7 +3,6 @@
 This repository contains code and models for our paper:
 
 > A Non-Parametric Video Shot Occlusion Detection Algorithm Based on Depth Information
-> 
 > Junhua Liao, Haihan Duan, Wanbing Zhao, Wei Cai, Yanbing Yang, Liangyin Chen
 
 
