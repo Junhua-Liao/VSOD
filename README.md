@@ -8,8 +8,8 @@ This repository contains code and models for our paper:
 
 ### Dataset 
 
-- [SOD v1.0](https://junhua-liao.github.io/Occlusion-Detection/)
-- SOD v2.0(coming soon)
+- [VSOD v1.0](https://junhua-liao.github.io/Occlusion-Detection/)
+- VSOD v2.0(coming soon)
 
 
 ### Method
