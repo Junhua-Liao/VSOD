@@ -1,15 +1,15 @@
-## A Non-Parametric Video Shot Occlusion Detection Algorithm Based on Depth Information
+## A Video Shot Occlusion Detection Algorithm Based on Depth Information
 
 This repository contains code and models for our paper:
 
-> A Non-Parametric Video Shot Occlusion Detection Algorithm Based on Depth Information  
+> A Video Shot Occlusion Detection Algorithm Based on Depth Information  
 > Junhua Liao, Haihan Duan, Wanbing Zhao, Wei Cai, Yanbing Yang, Liangyin Chen
 
 
 ### Dataset 
 
-- [VSOD v1.0](https://junhua-liao.github.io/Occlusion-Detection/)
-- VSOD v2.0(coming soon)
+- [MM'20](https://junhua-liao.github.io/Occlusion-Detection/)
+- VSOD(coming soon)
 
 
 ### Method
