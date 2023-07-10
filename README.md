@@ -1,4 +1,4 @@
-## A Video Shot Occlusion Detection Algorithm Based on Abnormal Fluctuation of Depth Information
+## A Video Shot Occlusion Detection Algorithm Based on the Abnormal Fluctuation of Depth Information
 
 This repository contains the code and datasets for our paper (Accept by TCSVT 2023):
 
