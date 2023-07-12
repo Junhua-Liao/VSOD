@@ -16,19 +16,16 @@ This repository contains the code and datasets for our paper (Accept by TCSVT 20
 
 ***
 ### Dataset 
-
 - [VSOD v1.0](https://junhua-liao.github.io/Occlusion-Detection/)
 - VSOD v2.0(coming soon)
 
 ***
 ### Method
-
 coming soon
 
 ***
 ### Citation
-
-Please cite our papers if you use this code or any of the models. 
+Please cite our papers if you use this code or datasets. 
 ```
 @inproceedings{liao2020occlusion,
   title={Occlusion Detection for Automatic Video Editing},
@@ -41,5 +38,5 @@ Please cite our papers if you use this code or any of the models.
 
 ***
 ### Acknowledgments
-Thanks for the support of open source repository ([DPT](https://github.com/isl-org/DPT), [NeWCRFs](https://github.com/aliyun/NeWCRFs), [GuidedDecoding](https://github.com/mic-rud/GuidedDecoding), [Jun et al.](https://github.com/jyjunmcl/Depth-Map-Decomposition)) for this research.
+Thanks for the support of the open-source repository ([DPT](https://github.com/isl-org/DPT), [NeWCRFs](https://github.com/aliyun/NeWCRFs), [GuidedDecoding](https://github.com/mic-rud/GuidedDecoding), [Jun et al.](https://github.com/jyjunmcl/Depth-Map-Decomposition)) for this research.
 
