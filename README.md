@@ -16,8 +16,8 @@ This repository contains the code and datasets for our paper (Accept by TCSVT 20
 
 ***
 ### Dataset 
-- [VSOD v1.0](https://junhua-liao.github.io/Occlusion-Detection/)
-- VSOD v2.0(coming soon)
+- VSOD v1.0 [[project page](https://junhua-liao.github.io/Occlusion-Detection/)]
+- VSOD v2.0 [[IEEE DataPort](https://dx.doi.org/10.21227/gfgt-3c35)]
 
 ***
 ### Method
