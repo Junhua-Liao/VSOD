@@ -7,7 +7,7 @@ This repository contains the code and datasets for our paper (Accept by TCSVT 20
 
 ***
 ### Related Works
-- Occlusion Detection for Automatic Video Editing (MM'20) [paper]()[[project page]](https://junhua-liao.github.io/Occlusion-Detection/)
+- Occlusion Detection for Automatic Video Editing (MM'20) [paper]()[\[project page\]](https://junhua-liao.github.io/Occlusion-Detection/)
 
 ***
 ### Dataset 
