@@ -7,10 +7,10 @@ This repository contains the code and datasets for our paper (Accept by TCSVT 20
 
 ***
 ### Related Works
-- Occlusion Detection for Automatic Video Editing (MM'20)
+- Occlusion Detection for Automatic Video Editing (**ACM MM 2020**)
 [[paper](https://junhua-liao.github.io/Occlusion-Detection/Occlusion%20Detection%20for%20Automatic%20Video%20Editing.pdf)]
 [[project page](https://junhua-liao.github.io/Occlusion-Detection/)]
-- A Light Weight Model for Video Shot Occlusion Detection (ICASSP'22)
+- A Light Weight Model for Video Shot Occlusion Detection (**IEEE ICASSP 2022**)
 [[paper](https://seaxiaod.gitee.io/publications/2022/ICASSP2022.pdf)]
 [[code](https://github.com/Junhua-Liao/ICASSP22-OcclusionDetection)]
 
@@ -41,5 +41,5 @@ Please cite our papers if you use this code or any of the models.
 
 ***
 ### Acknowledgments
-Thanks for the support of open source repository ([DPT](https://github.com/isl-org/DPT),[NeWCRFs](https://github.com/aliyun/NeWCRFs)) for this research.
+Thanks for the support of open source repository ([DPT](https://github.com/isl-org/DPT), [NeWCRFs](https://github.com/aliyun/NeWCRFs), [GuidedDecoding](https://github.com/mic-rud/GuidedDecoding), [Jun et al.](https://github.com/jyjunmcl/Depth-Map-Decomposition)) for this research.
 
