@@ -12,7 +12,7 @@ This repository contains the code and datasets for our paper (Accept by TCSVT 20
 [[project page](https://junhua-liao.github.io/Occlusion-Detection/)]
 - A Light Weight Model for Video Shot Occlusion Detection (ICASSP'22)
 [[paper](https://seaxiaod.gitee.io/publications/2022/ICASSP2022.pdf)]
-[[code]([https://junhua-liao.github.io/Occlusion-Detection/](https://github.com/Junhua-Liao/ICASSP22-OcclusionDetection))]
+[[code](https://github.com/Junhua-Liao/ICASSP22-OcclusionDetection)]
 
 ***
 ### Dataset 
@@ -41,5 +41,5 @@ Please cite our papers if you use this code or any of the models.
 
 ***
 ### Acknowledgments
-Thanks for the support of open source repository [DPT](https://github.com/isl-org/DPT), for this research.
+Thanks for the support of open source repository ([DPT](https://github.com/isl-org/DPT),[NeWCRFs](https://github.com/aliyun/NeWCRFs)) for this research.
 
