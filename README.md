@@ -5,9 +5,11 @@ This repository contains the code and datasets for our paper (Accept by TCSVT 20
 > A Video Shot Occlusion Detection Algorithm Based on the Abnormal Fluctuation of Depth Information  
 > Junhua Liao, Haihan Duan, Wanbing Zhao, Kanghui Feng, Yanbing Yang, Liangyin Chen
 
+***
 ### Related Works
-- Occlusion Detection for Automatic Video Editing (MM'20) [paper]()[project page]()
+- Occlusion Detection for Automatic Video Editing (MM'20) [paper]()[[project page]](https://junhua-liao.github.io/Occlusion-Detection/)
 
+***
 ### Dataset 
 
 - [VSOD v1.0](https://junhua-liao.github.io/Occlusion-Detection/)
