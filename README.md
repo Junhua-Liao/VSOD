@@ -13,6 +13,8 @@ This repository contains the code and datasets for our [paper](https://doi.org/1
 - A Light Weight Model for Video Shot Occlusion Detection (**IEEE ICASSP 2022**)
 [[paper](https://seaxiaod.gitee.io/publications/2022/ICASSP2022.pdf)]
 [[code](https://github.com/Junhua-Liao/ICASSP22-OcclusionDetection)]
+- FLAD: A Human-centered Video Content Flaw Detection System for Meeting Recordings (**ACM NOSSDAV 2023**)
+[[paper](https://seaxiaod.gitee.io/publications/2022/NOSSDAV2022.pdf)]
 
 ***
 ### Dataset 
