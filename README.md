@@ -39,6 +39,17 @@ Please cite our papers if you use this code or datasets.
   year={2020}
 }
 ```
+```
+@ARTICLE{10182309,
+  author={Liao, Junhua and Duan, Haihan and Zhao, Wanbing and Feng, Kanghui and Yang, Yanbing and Chen, Liangyin},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
+  title={A Video Shot Occlusion Detection Algorithm Based on the Abnormal Fluctuation of Depth Information}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/TCSVT.2023.3295243}}
+```
 
 ***
 ### Acknowledgments
