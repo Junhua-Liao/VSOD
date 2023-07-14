@@ -2,9 +2,7 @@ import os
 import cv2
 import numpy as np
 
-if __name__ == '__main__':
-
-    depth_path = 'Path/to/Depth_Map'
+def calculate_SoU(depth_path):
 
     video_list = sorted(os.listdir(depth_path))
     num = 1
@@ -17,6 +15,7 @@ if __name__ == '__main__':
 
         if not os.path.exists('result/'):
             os.makedirs('result/')
+            
         file = open('result/' + video_index + '_' + str(fps) + '.txt', 'a')
         frame_list = sorted(os.listdir(os.path.join(depth_path, video_index)))
         
