@@ -27,7 +27,10 @@ This repository contains the code and datasets for our [paper](https://doi.org/1
 Accessing this [repository](https://github.com/isl-org/DPT), utilize **DPT-Large** to obtain the depth map of the video.
 
 #### Testing
-coming soon
+Set the `depth_path` in the script and execute the following code.
+```
+python test.py
+```
 
 ***
 ### Citation
