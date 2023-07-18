@@ -56,37 +56,6 @@ def calculate_time_array(result, fps, threshold):
     return time_array
 
 
-def calculate_time_list(time_array):
-    time_list = []
-    start_time = None
-    stop_time = None
-    occlusion_switch = False
-
-    for i in range(len(time_array)):
-        if time_array[i] == 1:
-            if occlusion_switch:
-                continue
-            else:
-                occlusion_switch = True
-                start_time = i
-        elif time_array[i] == 0:
-            if occlusion_switch:
-                stop_time = i
-                time_list.append(time2str(start_time, stop_time))
-                start_time = None
-                stop_time = None
-                occlusion_switch = False
-            else:
-                continue
-        else:
-            print('ERROR!')
-    
-    if occlusion_switch:
-        time_list.append(time2str(start_time, len(time_array) - 1))
-
-    return time_list
-
-
 def time2str(start, stop):
     region = []
     for time in [start, stop]:
@@ -200,13 +169,8 @@ if __name__ == '__main__':
     for video_id, result_file in enumerate(result_file_lists):
 
         result, fps = file_pretreatment(os.path.join('result', result_file))
-
         threshold = calculate_threshold(result, fps)
-
         predict_arr = calculate_time_array(result, fps, threshold)
-
-        predict_list = calculate_time_list(predict_arr)
-
         label_arr = calculate_label_array(label_list[video_id], len(predict_arr))
 
         Recall_Event_list.append(formula_Recall_Event(label_arr, predict_arr, len(label_list[video_id])))
