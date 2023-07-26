@@ -19,7 +19,7 @@ This repository contains the code and datasets for our [paper](https://doi.org/1
 ***
 ### Dataset 
 - VSOD v1.0 [[project page](https://junhua-liao.github.io/Occlusion-Detection/)]
-- VSOD v2.0 [[IEEE DataPort](https://dx.doi.org/10.21227/gfgt-3c35)]
+- VSOD v2.0 [[IEEE DataPort](https://dx.doi.org/10.21227/gfgt-3c35)][[Baidu Cloud](https://pan.baidu.com/s/1ahYUD3y_AkzZHQeY3uxtwg?pwd=i2u6) (i2u6)]
 
 ***
 ### Method
