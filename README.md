@@ -1,6 +1,6 @@
 ## A Video Shot Occlusion Detection Algorithm Based on the Abnormal Fluctuation of Depth Information
 
-This repository contains the code and datasets for our [paper](https://doi.org/10.1109/TCSVT.2023.3295243) (Accepted by TCSVT 2023):
+This repository contains the code and datasets for our [paper](https://doi.org/10.1109/TCSVT.2023.3295243) (TCSVT 2023):
 
 > A Video Shot Occlusion Detection Algorithm Based on the Abnormal Fluctuation of Depth Information  
 > Junhua Liao, Haihan Duan, Wanbing Zhao, Kanghui Feng, Yanbing Yang, Liangyin Chen
