@@ -1,6 +1,6 @@
 ## A Video Shot Occlusion Detection Algorithm Based on the Abnormal Fluctuation of Depth Information
 
-This repository contains the code and datasets for our [paper](https://gitee.com/liaojunhua/papers/raw/master/pdf/TCSVT_2023.pdf) (TCSVT 2023):
+This repository contains the code and datasets for our [paper](https://junhua-liao.github.io/Junhua-Liao/publications/papers/TCSVT_2023.pdf) (TCSVT 2023):
 
 > A Video Shot Occlusion Detection Algorithm Based on the Abnormal Fluctuation of Depth Information  
 > Junhua Liao, Haihan Duan, Wanbing Zhao, Kanghui Feng, Yanbing Yang, Liangyin Chen
@@ -8,13 +8,13 @@ This repository contains the code and datasets for our [paper](https://gitee.com
 ***
 ### Related Works
 - Occlusion Detection for Automatic Video Editing (**ACM MM 2020**)
-[[paper](https://junhua-liao.github.io/Occlusion-Detection/Occlusion%20Detection%20for%20Automatic%20Video%20Editing.pdf)]
+[[paper](https://junhua-liao.github.io/Junhua-Liao/publications/papers/MM_2020.pdf)]
 [[project page](https://junhua-liao.github.io/Occlusion-Detection/)]
 - A Light Weight Model for Video Shot Occlusion Detection (**IEEE ICASSP 2022**)
-[[paper](https://seaxiaod.gitee.io/publications/2022/ICASSP2022.pdf)]
+[[paper](https://junhua-liao.github.io/Junhua-Liao/publications/papers/ICASSP_2022.pdf)]
 [[code](https://github.com/Junhua-Liao/ICASSP22-OcclusionDetection)]
 - FLAD: A Human-centered Video Content Flaw Detection System for Meeting Recordings (**ACM NOSSDAV 2022**)
-[[paper](https://seaxiaod.gitee.io/publications/2022/NOSSDAV2022.pdf)]
+[[paper](https://junhua-liao.github.io/Junhua-Liao/publications/papers/NOSSDAV2022.pdf)]
 
 ***
 ### Dataset 
