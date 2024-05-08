@@ -14,7 +14,7 @@ This repository contains the code and datasets for our [paper](https://junhua-li
 [[paper](https://junhua-liao.github.io/Junhua-Liao/publications/papers/ICASSP_2022.pdf)]
 [[code](https://github.com/Junhua-Liao/ICASSP22-OcclusionDetection)]
 - FLAD: A Human-centered Video Content Flaw Detection System for Meeting Recordings (**ACM NOSSDAV 2022**)
-[[paper](https://junhua-liao.github.io/Junhua-Liao/publications/papers/NOSSDAV2022.pdf)]
+[[paper](https://junhua-liao.github.io/Junhua-Liao/publications/papers/NOSSDAV_2022.pdf)]
 
 ***
 ### Dataset 
